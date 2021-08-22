@@ -20,6 +20,7 @@ p{
     flex-basis: 4;
 }
 .top-section,.bottom-section{
+    width: 100%;
     color:#CDAB9D ;
     margin: 40px;
     padding: 40px;
@@ -30,6 +31,7 @@ p{
 }
 
 .mid-section,.last-section{
+    width: 100%;
     color: #404F61;
     padding-top: 0px;
     padding: 40px;
@@ -40,7 +42,7 @@ p{
     justify-content:center;
     align-items:center;
 }
-.img2{
+.imgages{
     padding:40px;
     padding-bottom: 0px;
     padding-top: 0px;
@@ -49,6 +51,8 @@ p{
     flex-wrap: wrap;
     justify-content:center;
     align-items:center;
+    width:50%;
+    height: 50%;
 }
 .i{
     text-align: center;

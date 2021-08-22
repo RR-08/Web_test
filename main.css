@@ -23,10 +23,19 @@ section{
     margin: 0 auto;
     margin: auto;
     width: 90%;
+    max-width: 700px;
+
+}
+.cont-1{
+    border:2px solid #404F61;
 }
 .sec-2{
     background: #404F61;
     color: #CDAB9D;
+}
+.sec-1{
+    background: #CDAB9D;
+    color: #404F61;
 }
 img{
     /* width: 300px; */
